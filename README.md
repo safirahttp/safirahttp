@@ -16,4 +16,6 @@
 </div>
 
 ###
-   ![Snake animation](https://github.com/safirahttp/safirahttp/blob/output/github-contribution-grid-snake.svg)
+<img href="https://github.com/sar/sar/blob/output/snake.svg" alt="Snake animation" />
+
+###
