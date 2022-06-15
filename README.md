@@ -16,6 +16,6 @@
 </div>
 
 ###
-<img href="https://github.com/sar/sar/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/safirahttp/safirahttp/blob/output/snake.svg" alt="snake animation" />
 
 ###
