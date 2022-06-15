@@ -18,7 +18,7 @@ on:
         - name: generate snake.svg
           uses: Platane/snk@master
           with:
-            github_user_name: ${{ safirahttp }}
+            github_user_name: safirahttp
             outputs: dist/snake.svg
 
 
