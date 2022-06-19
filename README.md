@@ -1,4 +1,4 @@
-<h3 align="center"> oi pessoinhas dessa rede! eu me chamo ellen e sou dev júnior em desenvolvimento. </h3>
+<h3 align="center"> oi pessoinhas dessa rede, eu me chamo ellen! sou dev júnior em desenvolvimento. </h3>
 
 ###
 <div align="center">
